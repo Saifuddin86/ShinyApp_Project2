@@ -1,0 +1,12 @@
+name: ShinyApp
+title: ShinyApp
+username: saif86-ctg
+account: saif86-ctg
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14499829
+bundleId: 10099823
+url: https://saif86-ctg.shinyapps.io/ShinyApp/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
